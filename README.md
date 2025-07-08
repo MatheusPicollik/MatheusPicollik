@@ -4,9 +4,9 @@ Systems development student at SENAI
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/matheus-picolli-2606a12a2) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-picolli-2606a12a2/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mpicolli__/) 
-[![Email](https://img.shields.io/badge/Email%20Addres-8A2BE2)](oliveira.matheuspicolli@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](oliveira.matheuspicolli@gmail.com)
 
 ## 🛠 Languages and Tools:
 
